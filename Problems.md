@@ -1,6 +1,6 @@
-Indent mode
-Choose Tap, click tap key, it's a hard tap;
-choose space, click tap key, it's consisting of spaces.
+	Indent mode
+	Choose Tap, click tap key, it's a hard tap;
+	choose space, click tap key, it's consisting of spaces.
 
 
 
